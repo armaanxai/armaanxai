@@ -2,7 +2,7 @@
 
 <!-- Hero Name Typing Header (Responsive) -->
 <a href="https://github.com/Armaan385" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&height=100&lines=ARMAAN;ITSARMAAN;ARMAAN;ITSARMAAN" alt="Hero Typing SVG" width="100%" style="max-width: 600px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&height=100&lines=ITSARMAAN;itsarmaan;ITSARMAAN;itsarmaan" alt="Hero Typing SVG" width="100%" style="max-width: 600px;" />
 </a>
 
 <!-- Subtitle Loop (Responsive) -->
@@ -31,7 +31,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
   </a>
   <br>
   <a href="https://github.com/Armaan385" target="_blank">
-    <img src="https://img.shields.io/github/followers/Armaan385?style=for-the-badge&color=000000&logo=github&logoColor=00F0FF&borderColor=00F0FF" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Armaan385?style=for-the-badge&color=000000&logo=github&logoColor=00F0FF&borderColor=00F0FF&label=itsarmaan" alt="GitHub Followers" />
   </a>
   <a href="mailto:armaan11chaudhary@gmail.com">
     <img src="https://img.shields.io/badge/Encrypted_Comm-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Encrypted Comm" />
@@ -98,13 +98,13 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <p align="center">
   <a href="https://github.com/Armaan385" target="_blank">
-    <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&border_radius=10&border_color=00F0FF" alt="Armaan's GitHub Stats" width="100%" style="max-width: 440px;" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&border_radius=10&border_color=00F0FF&custom_title=itsarmaan%27s%20GitHub%20Stats" alt="itsarmaan's GitHub Stats" width="100%" style="max-width: 440px;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Armaan385" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&border=00F0FF&border_radius=10" alt="Armaan's GitHub Streak" width="100%" style="max-width: 440px;" />
+    <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&border=00F0FF&border_radius=10" alt="itsarmaan's GitHub Streak" width="100%" style="max-width: 440px;" />
   </a>
 </p>
 
@@ -143,7 +143,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
     <img src="https://img.shields.io/badge/01%20%2F%2F%20DOCUMIND_AI-Autonomous_GenAI_RAG_Analyst-000000?style=for-the-badge&logo=google&logoColor=00F0FF&borderColor=00F0FF" alt="DocuMind AI" />
   </a>
   <br>
-  <a href="https://github.com/Armaan385/DocuMind" target="_blank"><img src="https://img.shields.io/badge/Repository-Armaan385%2FDocuMind-000000?style=flat-square&logo=github&logoColor=00F0FF&color=00F0FF" alt="DocuMind Repo" /></a>
+  <a href="https://github.com/Armaan385/DocuMind" target="_blank"><img src="https://img.shields.io/badge/Repository-itsarmaan%2FDocuMind-000000?style=flat-square&logo=github&logoColor=00F0FF&color=00F0FF" alt="DocuMind Repo" /></a>
   <a href="https://docs.google.com/document/d/1wJ8riS9H_impJwq14ecOJq02Ob2L_q7C_HaEznte6hM/edit" target="_blank"><img src="https://img.shields.io/badge/Google_Docs-Architecture_Spec-000000?style=flat-square&logo=googledocs&logoColor=00F0FF&color=00F0FF" alt="Architecture Docs" /></a>
   <img src="https://img.shields.io/badge/Engine-Gemini_2.5_Flash-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Gemini 2.5 Flash" />
   <img src="https://img.shields.io/badge/Vectors-768d_Normalized-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="768d Vectors" />
@@ -169,7 +169,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
     <img src="https://img.shields.io/badge/02%20%2F%2F%20APEX_ACADEMY-Institutional_ERP_%26_Biometric_Sim-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF&borderColor=00F0FF" alt="Apex Academy ERP" />
   </a>
   <br>
-  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank"><img src="https://img.shields.io/badge/Repository-Armaan385%2FFees--Attendance--system--000000?style=flat-square&logo=github&logoColor=00F0FF&color=00F0FF" alt="Apex Academy Repo" /></a>
+  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank"><img src="https://img.shields.io/badge/Repository-itsarmaan%2FFees--Attendance--system--000000?style=flat-square&logo=github&logoColor=00F0FF&color=00F0FF" alt="Apex Academy Repo" /></a>
   <img src="https://img.shields.io/badge/Architecture-Admin_Teacher_Parent-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Multi-Role ERP" />
   <img src="https://img.shields.io/badge/Biometric--AI-Attendance_Sim-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Biometric AI" />
   <img src="https://img.shields.io/badge/Invoicing-jsPDF_QR_Engine-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="QR Invoicing" />
@@ -189,7 +189,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armaan-chaudhary-1a5263383/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Armaan385" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+  <a href="https://github.com/Armaan385" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-itsarmaan-000000?style=for-the-badge&logo=github&logoColor=00F0FF&borderColor=00F0FF" alt="GitHub Profile - itsarmaan"/></a>
   <a href="mailto:armaan11chaudhary@gmail.com"><img align="center" src="https://img.shields.io/badge/Encrypted_Comm-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Encrypted Email"/></a>
   <a href="https://www.instagram.com/armaanchaudhary_11" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.reddit.com/u/SpiderDyno" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
@@ -201,5 +201,5 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" style="max-width: 650px;" alt="Data Wisdom Quote" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Armaan385&color=00F0FF&style=for-the-badge&label=UNIQUE_VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Armaan385&color=00F0FF&style=for-the-badge&label=itsarmaan%20VISITORS" alt="Profile Views" />
 </div>
