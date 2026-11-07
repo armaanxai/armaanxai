@@ -25,6 +25,22 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <br>
 
+<!-- Active Directives Table -->
+<div align="center">
+<table width="100%" style="max-width: 820px;">
+  <tr>
+    <td width="50%">🔭 <b>Current Objective:</b> Scaling <a href="https://github.com/Armaan385/DocuMind"><b>DocuMind</b></a> GenAI RAG engine</td>
+    <td width="50%">🧠 <b>Deep Research:</b> Vector cosine retrieval &amp; zero-hallucination pipelines</td>
+  </tr>
+  <tr>
+    <td width="50%">⚡ <b>Core Engine:</b> Python 3.13, PyTorch, Scikit-Learn, Gemini 2.5</td>
+    <td width="50%">📫 <b>Direct Transmission:</b> <a href="mailto:armaan11chaudhary@gmail.com">armaan11chaudhary@gmail.com</a></td>
+  </tr>
+</table>
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/armaan-chaudhary-1a5263383/" target="_blank">
     <img src="https://img.shields.io/badge/Access_My_Network-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="Access Network" />
@@ -55,18 +71,22 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 </p>
 
 <p align="center">
+  <sub><b>LANGUAGES &amp; RUNTIMES</b></sub><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <br><br>
+  <sub><b>DATA SCIENCE &amp; MACHINE LEARNING</b></sub><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br><br>
+  <sub><b>DATABASES, PLATFORMS &amp; SYSTEMS</b></sub><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
