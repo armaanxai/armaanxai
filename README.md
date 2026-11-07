@@ -125,32 +125,59 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
   <img src="assets/hdr_operations.svg" alt="Deployed Operations Header" width="100%" style="max-width: 820px;" />
 </p>
 
-<!-- Project 1: DocuMind AI -->
+<!-- Flagship Repository Showcase Cards (Tokyo Night Cyberpunk Grid) -->
 <p align="center">
-  <a href="https://github.com/Armaan385/DocuMind-AI" target="_blank"><img src="https://img.shields.io/badge/DOCUMIND_AI-Flagship_GenAI_RAG-000000?style=for-the-badge&logo=google&logoColor=00F0FF&borderColor=00F0FF" alt="DocuMind AI" /></a>
-  <br>
-  <a href="https://github.com/Armaan385/DocuMind-AI" target="_blank"><img src="https://img.shields.io/badge/Engine-Gemini_2.5_Flash-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Gemini 2.5 Flash" /></a>
-  <img src="https://img.shields.io/badge/Vector_DB-Cosine_Similarity_768d-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Vector Store" />
-  <img src="https://img.shields.io/badge/UI-Cyberpunk_Streamlit-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Streamlit UI" />
-  <img src="https://img.shields.io/badge/Citations-Zero_Hallucination-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Zero Hallucination" />
+  <a href="https://github.com/Armaan385/DocuMind" target="_blank">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Armaan385&repo=DocuMind&theme=tokyonight&border_color=00F0FF&border_radius=10" alt="DocuMind Repo Pin" width="100%" style="max-width: 395px;" />
+  </a>
+  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Armaan385&repo=Fees-Attendance-system-&theme=tokyonight&border_color=00F0FF&border_radius=10" alt="Apex Academy Repo Pin" width="100%" style="max-width: 395px;" />
+  </a>
 </p>
 
 <br>
 
-<!-- Project 2: Apex Academy Live Animated Manifest -->
+<!-- Operation 01: DocuMind AI -->
+<div align="center">
+  <a href="https://github.com/Armaan385/DocuMind" target="_blank">
+    <img src="https://img.shields.io/badge/01%20%2F%2F%20DOCUMIND_AI-Autonomous_GenAI_RAG_Analyst-000000?style=for-the-badge&logo=google&logoColor=00F0FF&borderColor=00F0FF" alt="DocuMind AI" />
+  </a>
+  <br>
+  <a href="https://github.com/Armaan385/DocuMind" target="_blank"><img src="https://img.shields.io/badge/Repository-Armaan385%2FDocuMind-000000?style=flat-square&logo=github&logoColor=00F0FF&color=00F0FF" alt="DocuMind Repo" /></a>
+  <a href="https://docs.google.com/document/d/1wJ8riS9H_impJwq14ecOJq02Ob2L_q7C_HaEznte6hM/edit" target="_blank"><img src="https://img.shields.io/badge/Google_Docs-Architecture_Spec-000000?style=flat-square&logo=googledocs&logoColor=00F0FF&color=00F0FF" alt="Architecture Docs" /></a>
+  <img src="https://img.shields.io/badge/Engine-Gemini_2.5_Flash-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Gemini 2.5 Flash" />
+  <img src="https://img.shields.io/badge/Vectors-768d_Normalized-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="768d Vectors" />
+  <img src="https://img.shields.io/badge/Interface-Streamlit_Cyberpunk-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Streamlit UI" />
+  <img src="https://img.shields.io/badge/Citations-Zero_Hallucination-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Zero Hallucination" />
+</div>
+
+<p align="center">
+  <sub><b>Autonomous Retrieval-Augmented Generation (RAG) platform that indexes scientific PDFs, research papers, and technical documents with sub-second vector cosine retrieval, strict grounding, and page-level citations.</b></sub>
+</p>
+
+<br>
+
+<!-- Operation 02: Apex Academy Live Animated Manifest -->
 <p align="center">
   <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
     <img src="assets/project_manifest.gif" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank"><img src="https://img.shields.io/badge/APEX_ACADEMY-Live_Source-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Apex Academy" /></a>
-  <img src="https://img.shields.io/badge/Multi--Role-Admin_Teacher_Parent-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Multi-Role ERP" />
-  <img src="https://img.shields.io/badge/Biometric--AI-Attendance_Sim-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Biometric AI" />
+<div align="center">
+  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
+    <img src="https://img.shields.io/badge/02%20%2F%2F%20APEX_ACADEMY-Institutional_ERP_%26_Biometric_Sim-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF&borderColor=00F0FF" alt="Apex Academy ERP" />
+  </a>
   <br>
-  <img src="https://img.shields.io/badge/jsPDF-QR_Invoicing-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="QR Invoicing" />
-  <img src="https://img.shields.io/badge/WhatsApp-Alert_Automation-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="WhatsApp Automation" />
+  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank"><img src="https://img.shields.io/badge/Repository-Armaan385%2FFees--Attendance--system--000000?style=flat-square&logo=github&logoColor=00F0FF&color=00F0FF" alt="Apex Academy Repo" /></a>
+  <img src="https://img.shields.io/badge/Architecture-Admin_Teacher_Parent-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Multi-Role ERP" />
+  <img src="https://img.shields.io/badge/Biometric--AI-Attendance_Sim-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Biometric AI" />
+  <img src="https://img.shields.io/badge/Invoicing-jsPDF_QR_Engine-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="QR Invoicing" />
+  <img src="https://img.shields.io/badge/Alerts-WhatsApp_Automation-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="WhatsApp Automation" />
+</div>
+
+<p align="center">
+  <sub><b>Enterprise academic management ecosystem featuring role-based portals, biometric attendance simulation, automated QR invoice generation, fee schedule tracking, and WhatsApp communication hooks.</b></sub>
 </p>
 
 <br>
